@@ -5,7 +5,7 @@ import CountUp from '../components/CountUp'
 import About from '@/components/About';
 import Project from '@/components/Project';
 import  Contact  from '@/components/Contact';
-import Footer from '@/components/footer';
+import Footer from '@/components/Footer';
 function Home() {
   const [loading,setLoading] = useState(true);
 
